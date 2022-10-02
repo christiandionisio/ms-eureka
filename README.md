@@ -1,6 +1,11 @@
 # Módulo: ms-eureka
 Para ejecutar localmente, se necesita ejecutar los siguientes comandos
 
+### Generar el JAR
+
+```
+mvn clean install
+```
 
 ### Crear la imagen
 
